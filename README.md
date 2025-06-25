@@ -1,3 +1,7 @@
+## Model work flow
+![car](https://github.com/user-attachments/assets/f1af6f9b-b9a0-42cc-9770-eac3fa8eff0b)
+
+
 # Car Price Prediction
 The "Car Price Prediction" project focuses on predicting the prices of cars using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), Matplotlib, Seaborn, Lasso regression, and Linear regression, this project provides a comprehensive solution for accurate price estimation.
 
