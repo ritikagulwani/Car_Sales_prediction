@@ -22,3 +22,5 @@ Model Evaluation: The project evaluates the performance of the regression models
 # Conclusion
 The "Car Price Prediction" project offers a practical solution for estimating car prices based on various features. By leveraging data collection, preprocessing, visualization, Lasso and Linear regression modeling, and model evaluation, this project provides a comprehensive approach to addressing the price prediction task. The project also includes a curated dataset to facilitate seamless exploration and experimentation.
 
+## Dataset
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
