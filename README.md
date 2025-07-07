@@ -19,6 +19,18 @@ Regression Models (Lasso and Linear Regression): The project utilizes two regres
 
 Model Evaluation: The project evaluates the performance of the regression models using evaluation metrics such as mean squared error (MSE) and mean absolute error (MAE). These metrics quantify the differences between the predicted and actual car prices, providing insights into the models' accuracy and precision. Additionally, visualizations such as scatter plots are created to compare the predicted prices against the actual prices.
 
+## Getting Started
+To run this project locally, follow these steps:
+
+1.Clone the repository
+
+2.Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
+
+3.Launch Google Colab: https://colab.research.google.com/
+
+4.Open the  file and run the notebook cells sequentially.
+
+
 # Conclusion
 The "Car Price Prediction" project offers a practical solution for estimating car prices based on various features. By leveraging data collection, preprocessing, visualization, Lasso and Linear regression modeling, and model evaluation, this project provides a comprehensive approach to addressing the price prediction task. The project also includes a curated dataset to facilitate seamless exploration and experimentation.
 
